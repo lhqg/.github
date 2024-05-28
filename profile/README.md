@@ -1,4 +1,5 @@
-![LHQG logo](/LHQG_logo_blanc_couleur.jpg)
+![LHQG logo](/profile/LHQG_logo_blanc_couleur.jpg)
+
 LHQG SAS
 ========
 
