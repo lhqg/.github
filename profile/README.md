@@ -1,8 +1,5 @@
 ![LHQG logo](/profile/LHQG_logo_blanc_couleur.jpg)
 
-LHQG SAS
-========
-
 LHQG was born from the collaboration between two UNIX/Linux systems engineers interested in computer security.
 
 Our complementarity is a strength, forming a dedicated unit to the protection of UNIX/Linux systems for companies all sizes and all sectors.
