@@ -1,3 +1,4 @@
+!(/LHQG_logo_blanc_couleur.jpg)
 LHQG SAS
 ========
 
