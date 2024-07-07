@@ -15,3 +15,5 @@ Adaptable and flexible, we adjust to the complexity and specificities of each in
 We are keen to pass on our knowledge both during our missions and during the training we provide.
 
 The company is based on four pillars: trust, flexibility, sustainability and knowledge sharing.
+
+You can view/download our [public key](https://github.com/lhqg/.github/profile/RPM-GPG-KEY-LHQG) to validate the signature of the RPM packages and other code we publish and distribute.
